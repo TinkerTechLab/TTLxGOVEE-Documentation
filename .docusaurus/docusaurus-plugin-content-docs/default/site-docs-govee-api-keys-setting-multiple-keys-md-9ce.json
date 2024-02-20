@@ -1,0 +1,27 @@
+{
+  "id": "GOVEE-API-Keys/setting-multiple-keys",
+  "title": "Using Multiple GOVEE API Keys",
+  "description": "",
+  "source": "@site/docs/GOVEE-API-Keys/setting-multiple-keys.md",
+  "sourceDirName": "GOVEE-API-Keys",
+  "slug": "/GOVEE-API-Keys/setting-multiple-keys",
+  "permalink": "/docs/GOVEE-API-Keys/setting-multiple-keys",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TinkerTechLab/TTLxGOVEE-Documentation/docs/GOVEE-API-Keys/setting-multiple-keys.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GOVEE API Keys",
+    "permalink": "/docs/category/govee-api-keys"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
+  }
+}

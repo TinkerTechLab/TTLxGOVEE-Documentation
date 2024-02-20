@@ -1,0 +1,27 @@
+{
+  "id": "upgrading",
+  "title": "Upgrading your Account",
+  "description": "Thinking about upgrading your account? This page outlines why you should, and why we need to offer paid plains.",
+  "source": "@site/docs/upgrading.md",
+  "sourceDirName": ".",
+  "slug": "/upgrading",
+  "permalink": "/docs/upgrading",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TinkerTechLab/TTLxGOVEE-Documentation/docs/upgrading.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started (Connecting to GOVEE)",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Get Support",
+    "permalink": "/docs/support"
+  }
+}

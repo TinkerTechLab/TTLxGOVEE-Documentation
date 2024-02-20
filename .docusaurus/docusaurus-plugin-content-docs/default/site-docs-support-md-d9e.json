@@ -1,0 +1,27 @@
+{
+  "id": "support",
+  "title": "Get Support",
+  "description": "Need some help? Open a support ticket on Discord!",
+  "source": "@site/docs/support.md",
+  "sourceDirName": ".",
+  "slug": "/support",
+  "permalink": "/docs/support",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TinkerTechLab/TTLxGOVEE-Documentation/docs/support.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Upgrading your Account",
+    "permalink": "/docs/upgrading"
+  },
+  "next": {
+    "title": "GOVEE API Keys",
+    "permalink": "/docs/category/govee-api-keys"
+  }
+}

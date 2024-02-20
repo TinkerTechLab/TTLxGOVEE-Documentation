@@ -1,0 +1,27 @@
+{
+  "id": "GOVEE-API-Keys/using-multiple-keys",
+  "title": "Using Multiple GOVEE API Keys",
+  "description": "Have multiple GOVEE accounts you want to control? Good news! We support the usage of up to 3 connected GOVEE API keys",
+  "source": "@site/docs/GOVEE-API-Keys/using-multiple-keys.md",
+  "sourceDirName": "GOVEE-API-Keys",
+  "slug": "/GOVEE-API-Keys/using-multiple-keys",
+  "permalink": "/docs/GOVEE-API-Keys/using-multiple-keys",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TinkerTechLab/TTLxGOVEE-Documentation/docs/GOVEE-API-Keys/using-multiple-keys.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Security Levels",
+    "permalink": "/docs/GOVEE-API-Keys/security-levels"
+  },
+  "next": {
+    "title": "Integrations",
+    "permalink": "/docs/category/integrations"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "Integrations/webAPI",
+  "title": "Integrations: WebAPI",
+  "description": "Documentation for the WebAPI (Last Updated Feb. 2nd, 2024)",
+  "source": "@site/docs/Integrations/webAPI.md",
+  "sourceDirName": "Integrations",
+  "slug": "/Integrations/webAPI",
+  "permalink": "/docs/Integrations/webAPI",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TinkerTechLab/TTLxGOVEE-Documentation/docs/Integrations/webAPI.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Integrations",
+    "permalink": "/docs/category/integrations"
+  },
+  "next": {
+    "title": "Integrations: Discord",
+    "permalink": "/docs/Integrations/discord"
+  }
+}

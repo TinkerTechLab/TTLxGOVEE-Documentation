@@ -1,0 +1,83 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "GOVEE-API-Keys/security-levels",
+              "path": "/docs/GOVEE-API-Keys/security-levels",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "GOVEE-API-Keys/using-multiple-keys",
+              "path": "/docs/GOVEE-API-Keys/using-multiple-keys",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Integrations/discord",
+              "path": "/docs/Integrations/discord",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Integrations/ios",
+              "path": "/docs/Integrations/ios",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Integrations/webAPI",
+              "path": "/docs/Integrations/webAPI",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Integrations/webhooks",
+              "path": "/docs/Integrations/webhooks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "support",
+              "path": "/docs/support",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "upgrading",
+              "path": "/docs/upgrading",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/govee-api-keys",
+              "path": "/docs/category/govee-api-keys",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/integrations",
+              "path": "/docs/category/integrations",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

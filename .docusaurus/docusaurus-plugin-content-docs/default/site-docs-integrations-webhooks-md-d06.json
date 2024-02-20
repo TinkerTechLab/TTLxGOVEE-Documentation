@@ -1,0 +1,23 @@
+{
+  "id": "Integrations/webhooks",
+  "title": "Integrations: Webhooks",
+  "description": "Documentation for the POST webhooks Integration (Last Updated Feb. 2nd, 2024)",
+  "source": "@site/docs/Integrations/webhooks.md",
+  "sourceDirName": "Integrations",
+  "slug": "/Integrations/webhooks",
+  "permalink": "/docs/Integrations/webhooks",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TinkerTechLab/TTLxGOVEE-Documentation/docs/Integrations/webhooks.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Integrations: iOS Client",
+    "permalink": "/docs/Integrations/ios"
+  }
+}

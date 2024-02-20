@@ -1,0 +1,15 @@
+{
+  "title": "Tutorial - Extras",
+  "slug": "/category/tutorial---extras",
+  "permalink": "/docs/category/tutorial---extras",
+  "navigation": {
+    "previous": {
+      "title": "Using Multiple GOVEE API Keys",
+      "permalink": "/docs/GOVEE-API-Keys/using-multiple-keys"
+    },
+    "next": {
+      "title": "Translate your site",
+      "permalink": "/docs/tutorial-extras/translate-your-site"
+    }
+  }
+}

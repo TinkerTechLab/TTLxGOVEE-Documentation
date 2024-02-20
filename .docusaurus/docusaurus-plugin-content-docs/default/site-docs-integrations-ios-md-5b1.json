@@ -1,0 +1,27 @@
+{
+  "id": "Integrations/ios",
+  "title": "Integrations: iOS Client",
+  "description": "Documentation for the iOS Integration (Last Updated Feb. 2nd, 2024)",
+  "source": "@site/docs/Integrations/ios.md",
+  "sourceDirName": "Integrations",
+  "slug": "/Integrations/ios",
+  "permalink": "/docs/Integrations/ios",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TinkerTechLab/TTLxGOVEE-Documentation/docs/Integrations/ios.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Integrations: Discord",
+    "permalink": "/docs/Integrations/discord"
+  },
+  "next": {
+    "title": "Integrations: Webhooks",
+    "permalink": "/docs/Integrations/webhooks"
+  }
+}

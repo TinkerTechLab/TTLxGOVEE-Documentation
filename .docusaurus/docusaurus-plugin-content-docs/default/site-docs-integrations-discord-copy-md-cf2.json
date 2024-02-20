@@ -1,0 +1,27 @@
+{
+  "id": "Integrations/discord - Copy",
+  "title": "Integrations: Discord",
+  "description": "Documentation for the Discord Integration (Last Updated Feb. 2nd, 2024)",
+  "source": "@site/docs/Integrations/discord - Copy.md",
+  "sourceDirName": "Integrations",
+  "slug": "/Integrations/discord - Copy",
+  "permalink": "/docs/Integrations/discord - Copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TinkerTechLab/TTLxGOVEE-Documentation/docs/Integrations/discord - Copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Integrations: WebAPI",
+    "permalink": "/docs/Integrations/webAPI"
+  },
+  "next": {
+    "title": "Integrations: Discord",
+    "permalink": "/docs/Integrations/discord"
+  }
+}

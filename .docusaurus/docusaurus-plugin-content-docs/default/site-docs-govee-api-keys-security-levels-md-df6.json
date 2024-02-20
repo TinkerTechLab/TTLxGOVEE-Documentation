@@ -1,0 +1,27 @@
+{
+  "id": "GOVEE-API-Keys/security-levels",
+  "title": "Security Levels",
+  "description": "We offer two security levels that you can save your GOVEE API keys with, and each has its own set of benefits and drawbacks.",
+  "source": "@site/docs/GOVEE-API-Keys/security-levels.md",
+  "sourceDirName": "GOVEE-API-Keys",
+  "slug": "/GOVEE-API-Keys/security-levels",
+  "permalink": "/docs/GOVEE-API-Keys/security-levels",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TinkerTechLab/TTLxGOVEE-Documentation/docs/GOVEE-API-Keys/security-levels.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GOVEE API Keys",
+    "permalink": "/docs/category/govee-api-keys"
+  },
+  "next": {
+    "title": "Using Multiple GOVEE API Keys",
+    "permalink": "/docs/GOVEE-API-Keys/using-multiple-keys"
+  }
+}

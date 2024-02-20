@@ -1,0 +1,322 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/TinkerTechLab/TTLxGOVEE-Documentation/docs",
+          "editUrlLocalized": "https://github.com/TinkerTechLab/TTLxGOVEE-Documentation/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "D:\\WEB PROJECTS\\GOVEE API\\goveedocs.ttl\\sidebars.js",
+          "contentPath": "D:\\WEB PROJECTS\\GOVEE API\\goveedocs.ttl\\docs",
+          "contentPathLocalized": "D:\\WEB PROJECTS\\GOVEE API\\goveedocs.ttl\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "id": "GOVEE-API-Keys/security-levels",
+              "title": "Security Levels",
+              "description": "We offer two security levels that you can save your GOVEE API keys with, and each has its own set of benefits and drawbacks.",
+              "source": "@site/docs/GOVEE-API-Keys/security-levels.md",
+              "sourceDirName": "GOVEE-API-Keys",
+              "slug": "/GOVEE-API-Keys/security-levels",
+              "permalink": "/docs/GOVEE-API-Keys/security-levels",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/TinkerTechLab/TTLxGOVEE-Documentation/docs/GOVEE-API-Keys/security-levels.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "GOVEE API Keys",
+                "permalink": "/docs/category/govee-api-keys"
+              },
+              "next": {
+                "title": "Using Multiple GOVEE API Keys",
+                "permalink": "/docs/GOVEE-API-Keys/using-multiple-keys"
+              }
+            },
+            {
+              "id": "GOVEE-API-Keys/using-multiple-keys",
+              "title": "Using Multiple GOVEE API Keys",
+              "description": "Have multiple GOVEE accounts you want to control? Good news! We support the usage of up to 3 connected GOVEE API keys",
+              "source": "@site/docs/GOVEE-API-Keys/using-multiple-keys.md",
+              "sourceDirName": "GOVEE-API-Keys",
+              "slug": "/GOVEE-API-Keys/using-multiple-keys",
+              "permalink": "/docs/GOVEE-API-Keys/using-multiple-keys",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/TinkerTechLab/TTLxGOVEE-Documentation/docs/GOVEE-API-Keys/using-multiple-keys.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Security Levels",
+                "permalink": "/docs/GOVEE-API-Keys/security-levels"
+              },
+              "next": {
+                "title": "Integrations",
+                "permalink": "/docs/category/integrations"
+              }
+            },
+            {
+              "id": "Integrations/discord",
+              "title": "Integrations: Discord",
+              "description": "Documentation for the Discord Integration (Last Updated Feb. 2nd, 2024)",
+              "source": "@site/docs/Integrations/discord.md",
+              "sourceDirName": "Integrations",
+              "slug": "/Integrations/discord",
+              "permalink": "/docs/Integrations/discord",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/TinkerTechLab/TTLxGOVEE-Documentation/docs/Integrations/discord.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Integrations: WebAPI",
+                "permalink": "/docs/Integrations/webAPI"
+              },
+              "next": {
+                "title": "Integrations: iOS Client",
+                "permalink": "/docs/Integrations/ios"
+              }
+            },
+            {
+              "id": "Integrations/ios",
+              "title": "Integrations: iOS Client",
+              "description": "Documentation for the iOS Integration (Last Updated Feb. 2nd, 2024)",
+              "source": "@site/docs/Integrations/ios.md",
+              "sourceDirName": "Integrations",
+              "slug": "/Integrations/ios",
+              "permalink": "/docs/Integrations/ios",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/TinkerTechLab/TTLxGOVEE-Documentation/docs/Integrations/ios.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Integrations: Discord",
+                "permalink": "/docs/Integrations/discord"
+              },
+              "next": {
+                "title": "Integrations: Webhooks",
+                "permalink": "/docs/Integrations/webhooks"
+              }
+            },
+            {
+              "id": "Integrations/webAPI",
+              "title": "Integrations: WebAPI",
+              "description": "Documentation for the WebAPI (Last Updated Feb. 2nd, 2024)",
+              "source": "@site/docs/Integrations/webAPI.md",
+              "sourceDirName": "Integrations",
+              "slug": "/Integrations/webAPI",
+              "permalink": "/docs/Integrations/webAPI",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/TinkerTechLab/TTLxGOVEE-Documentation/docs/Integrations/webAPI.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Integrations",
+                "permalink": "/docs/category/integrations"
+              },
+              "next": {
+                "title": "Integrations: Discord",
+                "permalink": "/docs/Integrations/discord"
+              }
+            },
+            {
+              "id": "Integrations/webhooks",
+              "title": "Integrations: Webhooks",
+              "description": "Documentation for the POST webhooks Integration (Last Updated Feb. 2nd, 2024)",
+              "source": "@site/docs/Integrations/webhooks.md",
+              "sourceDirName": "Integrations",
+              "slug": "/Integrations/webhooks",
+              "permalink": "/docs/Integrations/webhooks",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/TinkerTechLab/TTLxGOVEE-Documentation/docs/Integrations/webhooks.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Integrations: iOS Client",
+                "permalink": "/docs/Integrations/ios"
+              }
+            },
+            {
+              "id": "intro",
+              "title": "Getting Started (Connecting to GOVEE)",
+              "description": "(Looking for something specific? See the left sidebar for navigation)",
+              "source": "@site/docs/intro.md",
+              "sourceDirName": ".",
+              "slug": "/intro",
+              "permalink": "/docs/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/TinkerTechLab/TTLxGOVEE-Documentation/docs/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Upgrading your Account",
+                "permalink": "/docs/upgrading"
+              }
+            },
+            {
+              "id": "upgrading",
+              "title": "Upgrading your Account",
+              "description": "Thinking about upgrading your account? This page outlines why you should, and why we need to offer paid plains.",
+              "source": "@site/docs/upgrading.md",
+              "sourceDirName": ".",
+              "slug": "/upgrading",
+              "permalink": "/docs/upgrading",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/TinkerTechLab/TTLxGOVEE-Documentation/docs/upgrading.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting Started (Connecting to GOVEE)",
+                "permalink": "/docs/intro"
+              },
+              "next": {
+                "title": "GOVEE API Keys",
+                "permalink": "/docs/category/govee-api-keys"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "doc",
+                "id": "upgrading"
+              },
+              {
+                "type": "category",
+                "label": "GOVEE API Keys",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "GOVEE-API-Keys/security-levels"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "GOVEE-API-Keys/using-multiple-keys"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/govee-api-keys",
+                  "permalink": "/docs/category/govee-api-keys"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Integrations",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Integrations/webAPI"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Integrations/discord"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Integrations/ios"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Integrations/webhooks"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/integrations",
+                  "permalink": "/docs/category/integrations"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        },
+        "unlisted": false
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}
