@@ -9,11 +9,11 @@ Want to contribute to the overall design and/or structure of the platform? Pleas
 
 ### Suggesting Changes
 
-Have an improvement to make but don't know how to do it? Submit [an issue](https://github.com/TinkerTechLab/TTLxGOVEE-Documentation/issues) and our maintainers will take care of it! Be sure to provide as much information as possible.
+Have an improvement to make but don't know how to implement it? Submit [an issue](https://github.com/TinkerTechLab/TTLxGOVEE-Documentation/issues) and our maintainers will take care of it! Be sure to provide as much information as possible.
 
 ### Pull Requests
 
-Download the `dev` branch to your PC, and install NPM.
+Download the `dev` branch to your PC, and install NPM (Node.js v18+ is also required).
 
 >Please don't create pull requests to the `publish` branch
 
