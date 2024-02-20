@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[784],{2479:e=>{e.exports=JSON.parse('{"title":"GOVEE API Keys","slug":"/category/govee-api-keys","permalink":"/docs/category/govee-api-keys","navigation":{"previous":{"title":"Get Support","permalink":"/docs/support"},"next":{"title":"Security Levels","permalink":"/docs/GOVEE-API-Keys/security-levels"}}}')}}]);
