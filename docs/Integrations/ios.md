@@ -10,7 +10,7 @@ Documentation for the iOS Integration (Last Updated Feb. 2nd, 2024)
 
 1. Open this page on your iPhone, iPad, or iPod
 
-2. Save our [iOS Shortcut by clicking here](https://www.icloud.com/shortcuts/48a3c53f6b6347ceb9edeab703d7371c)
+2. Save our [iOS Shortcut by clicking here](https://govee.tinkertechlab.com/iOSClient)
 
 3. Select the blue "Get Shortcut" button (The Apple Shortcuts app will open)
 
