@@ -32,7 +32,7 @@ Get started by [creating an account](https://govee.tinkertechlab.com/signup?ref=
 
 6. Check your email for a message from `api-support@govee.com`. It may take a few minutes to arrive
 
-7. Your API key will be attached in the message. Copy it into [the singup form](https://govee.tinkertechlab.com/signup) when prompted!
+7. Your API key will be attached in the message. Copy it into [the signup form](https://govee.tinkertechlab.com/signup) when prompted!
 
 ## Controlling your devices
 
