@@ -1,0 +1,27 @@
+{
+  "id": "signin-with-google",
+  "title": "Signin With Google",
+  "description": "Login to your account faster with \"Login With Google\"",
+  "source": "@site/docs/signin-with-google.md",
+  "sourceDirName": ".",
+  "slug": "/signin-with-google",
+  "permalink": "/docs/signin-with-google",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TinkerTechLab/TTLxGOVEE-Documentation/docs/signin-with-google.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Get Support",
+    "permalink": "/docs/support"
+  },
+  "next": {
+    "title": "Automations, Actions, and Events",
+    "permalink": "/docs/automations-actions-events"
+  }
+}

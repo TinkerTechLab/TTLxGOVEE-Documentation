@@ -1,0 +1,23 @@
+{
+  "id": "Integrations/time-pattern",
+  "title": "Integrations: Time Pattern",
+  "description": "Documentation for the Time Pattern Automation Integration (Last Updated Mar. 2nd, 2024)",
+  "source": "@site/docs/Integrations/time-pattern.md",
+  "sourceDirName": "Integrations",
+  "slug": "/Integrations/time-pattern",
+  "permalink": "/docs/Integrations/time-pattern",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/TinkerTechLab/TTLxGOVEE-Documentation/docs/Integrations/time-pattern.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Integrations: Webhooks",
+    "permalink": "/docs/Integrations/webhooks"
+  }
+}
