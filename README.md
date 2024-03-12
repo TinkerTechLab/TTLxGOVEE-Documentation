@@ -15,15 +15,13 @@ Have an improvement to make but don't know how to implement it? Submit [an issue
 
 Download the `dev` branch to your PC, and install NPM (Node.js v18+ is also required).
 
->Please don't create pull requests to the `publish` branch
-
 To start the development server, run `npm run start` from the directory that contains the files. Open `localhost:3000` or `<localIP>:3000` to view changes live as you make them.
-
-To contribute, share the `.md` (Or other configuration files) that you updated as a pull request to the `dev` branch.
 
 To generate static resources for the project, run `npm run build` and open the new directory `/build` that was created
 
->IMPORTANT! Do not share the updated `.html` files from the `/build` directory. Please contribute with the modified `.md` files from the `/docs` directory
+To contribute, upload any changes you made to `.md` files within the `docs` directory, as well as the new build files.
+
+>IMPORTANT! Make sure to re-upload the _entire_ `build` directory when creating a pull request, as Docusaurus modifies the filenames of scripts and other assets linked on each page!
 
 ## Credits
 Created with [Docusaurus by Facebook](https://github.com/facebook/docusaurus/). Compiled by [Greenreader9](https://github.com/greenreader9)
