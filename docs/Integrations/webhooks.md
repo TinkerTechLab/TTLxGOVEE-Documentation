@@ -24,6 +24,7 @@ Confused? Take a look at this [example on postman](https://www.postman.com/green
 
 Be sure to insert your full API key, and Public key! Remember to use the API key provided when you setup the trigger, don't use your GOVEE API key
 
+### cURL
 
 ```curl
 curl --location 'https://govee.tinkertechlab.com/api/v1/webhook/api' \
@@ -32,6 +33,7 @@ curl --location 'https://govee.tinkertechlab.com/api/v1/webhook/api' \
 --data-urlencode 'public_key='
 ```
 
+### PHP's cURL Library
 
 ```php
 <?php
@@ -63,6 +65,8 @@ curl_close($curl);
 echo $response;
 ```
 
+### PHP's Guzzle Library
+
 ```php
 <?php
 // PHP Guzzle Library
@@ -84,6 +88,7 @@ $res = $client->sendAsync($request, $options)->wait();
 echo $res->getBody();
 ```
 
+### Python's HTTP.Client Library
 
 ```Python
 # Python http.client Library
@@ -107,6 +112,7 @@ data = res.read()
 print(data.decode("utf-8"))
 ```
 
+### Python's requests Library
 ```Python
 # Python requests Library
 
@@ -127,6 +133,7 @@ response = requests.post(url, headers=headers, data=payload)
 print(response.text)
 ```
 
+### C#'s HTTPClient
 
 ```C#
 // C# HTTPClient
@@ -151,6 +158,7 @@ Console.WriteLine(await response.Content.ReadAsStringAsync());
 
 ```
 
+### Swift's URLSession
 
 ```swift
 // Swift URLSession
