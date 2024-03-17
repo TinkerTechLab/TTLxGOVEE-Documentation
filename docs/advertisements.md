@@ -17,9 +17,9 @@ Please don't disable your ad-blocker on our site. While advertisements may be an
 Yes! Please see the following ways that you can help us out without upgrading your account to a paid plan
 
 - [Buy something on Amazon](https://www.amazon.com?&linkCode=ll2&tag=ttlxgovee-20&linkId=dc25b1f26332a294e514f100e515864b&language=en_US&ref_=as_li_ss_tl)
- - Buying on Amazon is something you probably do at least once a month, right? So click our link above and add some things to your cart! It won't cost you anything extra, and we'll get a percentage of your order!
+  - Buying on Amazon is something you probably do at least once a month, right? So click our link above and add some things to your cart! It won't cost you anything extra, and we'll get a percentage of your order!
 - [Buy us a Pizza on BuyMeACoffee](https://www.buymeacoffee.com/tinkertechlab)
- - Send a little, or a lot, it's totally up to you!
+  - Send a little, or a lot, it's totally up to you!
 - Bitcoin Address: `bc1qxlxnju4s6kqjll8nf77guuw4sruzj5p6dxwypy`
- - Love that virtual currency? Share the love!
+  - Love that virtual currency? Share the love!
 
