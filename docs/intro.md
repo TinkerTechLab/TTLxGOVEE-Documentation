@@ -22,6 +22,11 @@ Get started by [creating an account](https://govee.tinkertechlab.com/signup?ref=
 
 We recommend that you install an Authenticator app onto your mobile device to help protect your account.
 
+#### Video Tutorial
+[View on YouTube.com](https://www.youtube.com/watch?v=MBXk6f5LhGI)
+
+#### Text Tutorial
+
 On iOS and Android, we recommend "Authy", "Microsoft Authenticator", and "Google Authenticator". You can download these apps from your devices App Store.
 
 After installing a 2FA application, follow the steps below to link it to your TTL account:
@@ -44,6 +49,11 @@ After installing a 2FA application, follow the steps below to link it to your TT
 
 ### Finding your GOVEE API Key
 
+#### Video Tutorial
+[View on YouTube.com](https://www.youtube.com/watch?v=61TekfVcW5s)
+
+#### Text Tutorial
+
 1. Open the GOVEE Home app on iOS or Android (Please note that using the GOVEE Studio or Lite app _will not work_)
 
 2. Select the profile icon (The bottom-leftmost icon on your screen)
@@ -56,7 +66,7 @@ After installing a 2FA application, follow the steps below to link it to your TT
 
 6. Check your email for a message from `api-support@govee.com`. It may take a few minutes to arrive
 
-7. Your API key will be attached in the message. Copy it into [the signup form](https://govee.tinkertechlab.com/signup) when prompted!
+7. Your API key will be attached in the message. Copy it into [the signup form](https://govee.tinkertechlab.com/onboard) when prompted!
 
 ## Controlling your devices
 
