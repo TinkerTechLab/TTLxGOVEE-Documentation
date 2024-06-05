@@ -38,7 +38,7 @@ The first time you message our bot, there are a few setup steps you must complet
 
 Starting with BotV2, you can add the bot to your own Discord server, and link it to a channel allowing all members of the channel to control your lights! Perfect for the workplace or at home, when multiple people wish to control the same lights without having to share the same GOVEE APP login information.
 
-1. Click [this link](https://discord.com/oauth2/authorize?client_id=1203871803609448448), then add the bot to your server by selecting it via the drop-down. Make sure to allow the bot all the permissions it requests, they are important for it to work properly! Discord link: https://discord.com/oauth2/authorize?client_id=1203871803609448448
+1. Click [this link](https://discord.com/oauth2/authorize?client_id=1203785365924749352), then add the bot to your server by selecting it via the drop-down. Make sure to allow the bot all the permissions it requests, they are important for it to work properly! Discord link: https://discord.com/oauth2/authorize?client_id=1203785365924749352
 
 > Note! Unlike in your DMs, you'll need to mention the bot (Give an @) at the beginning of every message you want it to respond to, including the setup prompts! For your privacy, the bot will never store any posts that do not mention it.
 
